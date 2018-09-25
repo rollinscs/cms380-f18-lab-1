@@ -1,0 +1,300 @@
+1	Gone with the Wind	MGM	202,044,600	$198,676,459	1939^
+2	Star Wars	Fox	178,119,600	$460,998,007	1977^
+3	The Sound of Music	Fox	142,415,400	$158,671,368	1965
+4	E.T.: The Extra-Terrestrial	Uni.	141,854,300	$435,110,554	1982^
+5	Titanic	Par.	135,549,800	$659,363,944	1997^
+6	The Ten Commandments	Par.	131,000,000	$65,500,000	1956
+7	Jaws	Uni.	128,078,800	$260,000,000	1975
+8	Doctor Zhivago	MGM	124,135,500	$111,721,910	1965
+9	The Exorcist	WB	110,599,200	$232,906,145	1973^
+10	Snow White and the Seven Dwarfs	Dis.	109,000,000	$184,925,486	1937^
+11	Star Wars: The Force Awakens	BV	108,115,100	$936,662,225	2015
+12	101 Dalmatians	Dis.	99,917,300	$144,880,014	1961^
+13	The Empire Strikes Back	Fox	98,180,600	$290,475,067	1980^
+14	Ben-Hur	MGM	98,000,000	$74,000,000	1959
+15	Avatar	Fox	97,309,600	$760,507,625	2009^
+16	Return of the Jedi	Fox	94,059,400	$309,306,177	1983^
+17	Jurassic Park	Uni.	91,621,800	$402,453,882	1993^
+18	Star Wars: Episode I - The Phantom Menace	Fox	90,312,100	$474,544,677	1999^
+19	The Lion King	BV	89,146,400	$422,783,777	1994^
+20	The Sting	Uni.	89,142,900	$156,000,000	1973
+21	Raiders of the Lost Ark	Par.	88,543,400	$248,159,971	1981^
+22	The Graduate	AVCO	85,576,800	$104,945,305	1967^
+23	Fantasia	Dis.	83,043,500	$76,408,097	1941^
+24	Jurassic World	Uni.	79,049,200	$652,270,625	2015
+25	The Godfather	Par.	78,922,600	$134,966,411	1972^
+26	Forrest Gump	Par.	78,614,600	$330,252,182	1994^
+27	Mary Poppins	Dis.	78,181,800	$102,272,727	1964^
+28	Grease	Par.	76,969,200	$188,755,690	1978^
+29	Marvel's The Avengers	BV	76,881,200	$623,357,910	2012
+30	Black Panther	BV	76,270,500	$700,059,566	2018
+31	Thunderball	UA	74,800,000	$63,595,658	1965
+32	The Dark Knight	WB	74,463,500	$534,858,444	2008^
+33	The Jungle Book	Dis.	73,679,900	$141,843,612	1967^
+34	Sleeping Beauty	Dis.	72,676,100	$51,600,000	1959^
+35	Avengers: Infinity War	BV	72,368,400	$678,815,482	2018
+36	Ghostbusters	Col.	71,173,700	$242,212,467	1984^
+37	Shrek 2	DW	71,050,900	$441,226,247	2004
+38	Butch Cassidy and the Sundance Kid	Fox	70,557,900	$102,308,889	1969
+39	Love Story	Par.	69,998,100	$106,397,186	1970
+40	Spider-Man	Sony	69,484,700	$403,706,375	2002
+41	Independence Day	Fox	69,268,900	$306,169,268	1996^
+42	Home Alone	Fox	67,734,200	$285,761,243	1990
+43	Star Wars: The Last Jedi	BV	67,594,500	$620,181,382	2017
+44	Pinocchio	Dis.	67,403,300	$84,254,167	1940^
+45	Cleopatra (1963)	Fox	67,183,500	$57,777,778	1963
+46	Beverly Hills Cop	Par.	67,150,000	$234,760,478	1984
+47	Goldfinger	UA	66,300,000	$51,081,062	1964
+48	Airport	Uni.	66,111,300	$100,489,151	1970
+49	American Graffiti	Uni.	65,714,300	$115,000,000	1973
+50	The Robe	Fox	65,454,500	$36,000,000	1953
+51	Incredibles 2	BV	64,643,700	$606,357,928	2018
+52	Pirates of the Caribbean: Dead Man's Chest	BV	64,628,400	$423,315,812	2006
+53	Around the World in 80 Days	UA	64,615,400	$42,000,000	1956
+54	Bambi	RKO	63,712,400	$102,247,150	1942^
+55	Blazing Saddles	WB	63,239,600	$119,601,481	1974^
+56	Batman	WB	62,954,600	$251,188,924	1989
+57	The Bells of St. Mary's	RKO	62,745,100	$21,333,333	1945
+58	The Lord of the Rings: The Return of the King	NL	61,639,700	$377,845,905	2003^
+59	Finding Nemo	BV	61,586,500	$380,843,261	2003^
+60	The Towering Inferno	Fox	61,375,700	$116,000,000	1974
+61	Rogue One: A Star Wars Story	BV	60,441,600	$532,177,324	2016
+62	Cinderella (1950)	Dis.	60,301,400	$93,141,149	1950^
+63	Spider-Man 2	Sony	60,158,700	$373,585,825	2004
+64	My Fair Lady	WB	60,000,000	$72,000,000	1964
+65	The Greatest Show on Earth	Par.	60,000,000	$36,000,000	1952
+66	National Lampoon's Animal House	Uni.	59,890,300	$141,600,000	1978^
+67	The Passion of the Christ	NM	59,704,800	$370,782,930	2004^
+68	Star Wars: Episode III - Revenge of the Sith	Fox	59,324,600	$380,270,577	2005^
+69	Back to the Future	Uni.	59,050,700	$210,609,762	1985
+70	The Lord of the Rings: The Two Towers	NL	57,725,300	$342,551,365	2002^
+71	The Dark Knight Rises	WB	57,581,800	$448,139,099	2012
+72	The Sixth Sense	BV	57,579,100	$293,506,292	1999
+73	Superman	WB	57,358,100	$134,218,018	1978
+74	Tootsie	Col.	56,903,900	$177,200,000	1982
+75	Smokey and the Bandit	Uni.	56,832,900	$126,737,428	1977
+76	Beauty and the Beast (2017)	BV	56,798,200	$504,014,165	2017
+77	Finding Dory	BV	56,158,100	$486,295,561	2016
+78	West Side Story	MGM	56,013,800	$44,064,958	1961^
+79	Close Encounters of the Third Kind	Col.	55,922,700	$135,189,114	1977^
+80	Harry Potter and the Sorcerer's Stone	WB	55,913,000	$317,575,550	2001
+81	Lady and the Tramp	Dis.	55,734,900	$93,602,326	1955^
+82	Lawrence of Arabia	Col.	55,383,600	$44,824,144	1962^
+83	The Rocky Horror Picture Show	Fox	55,069,400	$112,892,319	1975
+84	Rocky	UA	55,040,000	$117,235,147	1976
+85	The Best Years of Our Lives	RKO	55,000,000	$23,650,000	1946
+86	The Poseidon Adventure	Fox	54,902,000	$84,563,118	1972
+87	The Lord of the Rings: The Fellowship of the Ring	NL	54,799,300	$315,544,750	2001^
+88	Twister	WB	54,688,100	$241,721,524	1996
+89	Men in Black	Sony	54,616,700	$250,690,539	1997
+90	The Bridge on the River Kwai	Col.	54,400,000	$27,200,000	1957
+91	Transformers: Revenge of the Fallen	P/DW	53,900,900	$402,111,870	2009
+92	It's a Mad, Mad, Mad, Mad World	MGM	53,875,400	$46,332,858	1963
+93	Swiss Family Robinson	Dis.	53,808,000	$40,356,000	1960
+94	One Flew Over the Cuckoo's Nest	UA	53,685,400	$108,981,275	1975
+95	M.A.S.H.	Fox	53,684,200	$81,600,000	1970
+96	Indiana Jones and the Temple of Doom	Par.	53,532,800	$179,870,271	1984
+97	Avengers: Age of Ultron	BV	53,526,900	$459,005,868	2015
+98	Star Wars: Episode II - Attack of the Clones	Fox	53,468,500	$310,676,740	2002^
+99	Toy Story 3	BV	53,339,400	$415,004,880	2010
+100	Mrs. Doubtfire	Fox	52,684,400	$219,195,243	1993
+101	Aladdin	BV	52,442,300	$217,350,219	1992
+102	Ghost	Par.	51,465,200	$217,631,306	1990
+103	The Hunger Games: Catching Fire	LGF	51,114,600	$424,668,047	2013
+104	Duel in the Sun	Selz.	51,020,400	$20,408,163	1946
+105	The Hunger Games	LGF	50,863,300	$408,010,692	2012
+106	Pirates of the Caribbean: The Curse of the Black Pearl	BV	50,648,900	$305,413,918	2003
+107	House of Wax	WB	50,531,900	$23,750,000	1953
+108	Rear Window	Par.	50,354,700	$36,764,313	1954^
+109	The Lost World: Jurassic Park	Uni.	49,910,000	$229,086,679	1997
+110	Indiana Jones and the Last Crusade	Par.	49,416,500	$197,171,806	1989
+111	Monsters, Inc.	BV	49,353,100	$289,916,256	2001^
+112	Frozen	BV	49,041,000	$400,738,009	2013
+113	Spider-Man 3	Sony	48,914,300	$336,530,303	2007
+114	Iron Man 3	BV	48,849,300	$409,013,994	2013
+115	Terminator 2: Judgment Day	TriS	48,772,600	$205,881,154	1991^
+116	Sergeant York	WB	48,123,200	$16,361,885	1941
+117	How the Grinch Stole Christmas	Uni.	48,106,800	$260,044,825	2000
+118	Top Gun	Par.	48,030,300	$179,800,601	1986^
+119	Harry Potter and the Deathly Hallows Part 2	WB	47,989,900	$381,011,219	2011
+120	Toy Story 2	BV	47,836,500	$245,852,179	1999^
+121	Shrek	DW	47,290,600	$267,665,011	2001
+122	Shrek the Third	P/DW	46,907,000	$322,719,944	2007
+123	Despicable Me 2	Uni.	46,894,100	$368,061,265	2013
+124	Captain America: Civil War	BV	46,755,200	$408,084,349	2016
+125	The Matrix Reloaded	WB	46,695,900	$281,576,461	2003
+126	Transformers	P/DW	46,402,100	$319,246,193	2007
+127	Crocodile Dundee	Par.	46,202,500	$174,803,506	1986
+128	Wonder Woman	WB	46,115,500	$412,563,408	2017
+129	The Four Horsemen of the Apocalypse	MPC	45,918,400	$9,183,673	1921
+130	Saving Private Ryan	DW	45,747,100	$216,540,909	1998
+131	Young Frankenstein	Fox	45,647,300	$86,273,333	1974
+132	Peter Pan	Dis.	45,623,500	$87,404,651	1953^
+133	Gremlins	WB	45,482,200	$153,083,102	1984^
+134	Beauty and the Beast	BV	45,363,700	$218,967,620	1991^
+135	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	BV	45,176,200	$291,710,957	2005
+136	Harry Potter and the Goblet of Fire	WB	45,175,300	$290,013,036	2005
+137	Pirates of the Caribbean: At World's End	BV	44,973,900	$309,420,425	2007
+138	Harry Potter and the Chamber of Secrets	WB	44,915,900	$261,988,482	2002
+139	Jurassic World: Fallen Kingdom	Uni.	44,410,600	$416,571,660	2018
+140	The Fugitive	WB	44,397,300	$183,875,760	1993
+141	The Caine Mutiny	Col.	44,387,800	$21,750,000	1954
+142	Iron Man	Par.	44,345,900	$318,412,101	2008
+143	Transformers: Dark of the Moon	P/DW	44,260,900	$352,390,543	2011
+144	Meet the Fockers	Uni.	44,173,000	$279,261,160	2004
+145	Indiana Jones and the Kingdom of the Crystal Skull	Par.	44,164,500	$317,101,119	2008
+146	Jumanji: Welcome to the Jungle	Sony	44,126,600	$404,515,480	2017
+147	Toy Story	BV	43,868,300	$191,796,233	1995^
+148	Dances with Wolves	Orion	43,699,300	$184,208,848	1990
+149	An Officer and a Gentleman	Par.	43,656,900	$129,795,554	1982
+150	Guardians of the Galaxy Vol. 2	BV	43,556,500	$389,813,101	2017
+151	2001: A Space Odyssey	MGM	43,517,000	$58,588,800	1968^
+152	Rain Man	MGM	43,291,700	$172,825,435	1988
+153	The Secret Life of Pets	Uni.	43,273,800	$368,384,330	2016
+154	Guess Who's Coming to Dinner	Col.	43,257,000	$56,666,667	1967
+155	Inside Out	BV	43,186,600	$356,461,711	2015
+156	American Sniper	WB	43,080,000	$350,126,372	2014
+157	Kramer Vs. Kramer	Col.	43,020,200	$106,260,000	1979
+158	Armageddon	BV	42,980,400	$201,578,182	1998
+159	Psycho	Par.	42,666,700	$32,000,000	1960
+160	Rocky III	UA	42,513,300	$125,049,125	1982^
+161	Harry Potter and the Order of the Phoenix	WB	42,442,500	$292,004,738	2007
+162	Rambo: First Blood Part II	TriS	42,370,500	$150,415,432	1985
+163	Batman Forever	WB	42,306,000	$184,031,112	1995
+164	Deadpool	Fox	42,293,000	$363,070,709	2016
+165	Pretty Woman	BV	42,176,400	$178,406,268	1990
+166	Earthquake	Uni.	42,151,700	$79,666,653	1974
+167	Alice in Wonderland (2010)	BV	42,102,000	$334,191,110	2010
+168	The Incredibles	BV	42,030,000	$261,441,092	2004
+169	Cast Away	Fox	41,894,200	$233,632,142	2000
+170	Home Alone 2: Lost in New York	Fox	41,849,600	$173,585,516	1992
+171	The Jungle Book (2016)	BV	41,710,700	$364,001,123	2016
+172	Three Men and a Baby	BV	41,703,800	$167,780,960	1987
+173	My Big Fat Greek Wedding	IFC	41,419,500	$241,438,208	2002
+174	Guardians of the Galaxy	BV	41,177,600	$333,176,600	2014
+175	Furious 7	Uni.	41,023,800	$353,007,020	2015
+176	Mission: Impossible	Par.	40,946,100	$180,981,856	1996
+177	The Hunger Games: Mockingjay - Part 1	LGF	40,726,900	$337,135,885	2014
+178	Minions	Uni.	40,714,200	$336,045,770	2015
+179	Saturday Night Fever	Par.	40,604,700	$94,213,184	1977
+180	On Golden Pond	Uni.	40,584,300	$119,285,432	1981
+181	Austin Powers: The Spy Who Shagged Me	NL	40,559,100	$206,040,086	1999
+182	Harry Potter and the Half-Blood Prince	WB	40,471,100	$301,959,197	2009
+183	Bruce Almighty	Uni.	40,270,200	$242,829,261	2003
+184	Harry Potter and the Prisoner of Azkaban	WB	40,183,700	$249,541,069	2004
+185	Funny Girl	Col.	40,039,500	$52,223,306	1968^
+186	Mission: Impossible II	Par.	39,964,700	$215,409,889	2000
+187	Rush Hour 2	NL	39,958,400	$226,164,286	2001
+188	Apollo 13	Uni.	39,857,700	$173,837,933	1995^
+189	Patton	Fox	39,838,600	$61,749,765	1970
+190	Fatal Attraction	Par.	39,680,700	$156,645,693	1987
+191	Iron Man 2	Par.	39,668,300	$312,433,331	2010
+192	Zootopia	BV	39,606,100	$341,268,248	2016
+193	Liar Liar	Uni.	39,523,000	$181,410,615	1997
+194	Robin Hood: Prince of Thieves	WB	39,309,700	$165,493,908	1991
+195	Beverly Hills Cop II	Par.	39,300,500	$153,665,036	1987
+196	Up	BV	39,273,800	$293,004,164	2009
+197	Batman Returns	WB	39,236,600	$162,831,698	1992
+198	Signs	BV	39,233,600	$227,966,634	2002
+199	The Twilight Saga: Eclipse	Sum.	38,978,600	$300,531,751	2010
+200	Superman II	WB	38,915,700	$108,185,706	1981
+201	The Twilight Saga: New Moon	Sum.	38,910,100	$296,623,634	2009
+202	What's Up, Doc?	WB	38,823,500	$66,000,000	1972
+203	9 to 5	Fox	38,398,000	$103,290,500	1980
+204	Batman v Superman: Dawn of Justice	WB	38,260,600	$330,360,194	2016
+205	The Firm	Par.	38,248,400	$158,348,367	1993
+206	Suicide Squad	WB	38,179,100	$325,100,054	2016
+207	Who Framed Roger Rabbit	BV	38,066,300	$156,452,370	1988
+208	Inception	WB	37,923,000	$292,576,195	2010
+209	Skyfall	Sony	37,842,000	$304,360,277	2012
+210	The Hobbit: An Unexpected Journey	WB (NL)	37,833,700	$303,003,568	2012
+211	Porky's	Fox	37,722,200	$111,289,673	1982^
+212	Air Force One	Sony	37,672,700	$172,956,409	1997
+213	Stir Crazy	Col.	37,658,000	$101,300,000	1980
+214	A Star Is Born (1976)	WB	37,558,700	$80,000,000	1976
+215	There's Something About Mary	Fox	37,478,600	$176,484,651	1998
+216	Spider-Man: Homecoming	Sony	37,418,200	$334,201,140	2017
+217	Cars	BV	37,264,600	$244,082,982	2006
+218	The Hangover	WB	37,165,900	$277,322,503	2009
+219	Lethal Weapon 2	WB	37,091,700	$147,253,986	1989
+220	Night at the Museum	Fox	37,041,600	$250,863,268	2006
+221	Harry Potter and the Deathly Hallows Part 1	WB	36,989,200	$295,983,305	2010
+222	I Am Legend	WB	36,724,000	$256,393,010	2007
+223	Austin Powers in Goldmember	NL	36,713,900	$213,307,889	2002
+224	War of the Worlds	Par.	36,549,200	$234,280,354	2005
+225	It	WB (NL)	36,508,600	$327,481,748	2017
+226	Every Which Way But Loose	WB	36,408,800	$85,196,485	1978
+227	The Twilight Saga: Breaking Dawn Part 2	LG/S	36,328,500	$292,324,737	2012
+228	The Love Bug	Dis.	36,101,400	$51,264,000	1969
+229	The Twilight Saga: Breaking Dawn Part 1	Sum.	35,912,900	$281,287,133	2011
+230	You Only Live Twice	UA	35,904,000	$43,084,787	1967
+231	X-Men: The Last Stand	Fox	35,780,500	$234,362,462	2006
+232	The Mummy Returns	Uni.	35,692,500	$202,019,785	2001
+233	X2: X-Men United	Fox	35,646,700	$214,949,694	2003
+234	Platoon	Orion	35,436,000	$138,530,565	1986
+235	Rocky IV	UA	35,387,300	$127,873,716	1985
+236	Man of Steel	WB	35,250,500	$291,045,518	2013
+237	Pearl Harbor	BV	35,078,200	$198,542,554	2001
+238	True Lies	Fox	34,995,800	$146,282,411	1994
+239	Heaven Can Wait (1978)	Par.	34,889,000	$81,640,278	1978
+240	Lethal Weapon 3	WB	34,875,100	$144,731,527	1992
+241	Look Who's Talking	TriS	34,842,500	$140,088,813	1989
+242	Gladiator	DW	34,814,000	$187,705,427	2000
+243	Jaws 2	Uni.	34,718,700	$81,766,007	1978^
+244	Star Trek	Par.	34,548,000	$257,730,019	2009
+245	The Santa Clause	BV	34,507,200	$144,833,357	1994
+246	The Amityville Horror	AIP	34,435,100	$86,432,000	1979
+247	Thor: Ragnarok	BV	34,321,200	$315,058,289	2017
+248	The Waterboy	BV	34,210,600	$161,491,646	1998
+249	A Bug's Life	BV	34,135,500	$162,798,565	1998
+250	A Few Good Men	Col.	34,103,400	$141,340,178	1992
+251	The Odd Couple	Par.	33,990,300	$44,527,234	1968
+252	Deadpool 2	Fox	33,953,600	$318,485,133	2018
+253	Rocky II	UA	33,937,100	$85,182,160	1979
+254	Jerry Maguire	Sony	33,929,100	$153,952,592	1996
+255	The Perfect Storm	WB	33,881,000	$182,618,434	2000
+256	King Kong	Uni.	33,770,600	$218,080,025	2005
+257	The Matrix	WB	33,755,900	$171,479,930	1999
+258	The Amazing Spider-Man	Sony	33,677,900	$262,030,663	2012
+259	Tarzan	BV	33,673,400	$171,091,819	1999
+260	Sister Act	BV	33,639,800	$139,605,150	1992
+261	Hooper	WB	33,333,300	$78,000,000	1978
+262	The Blind Side	WB	33,302,300	$255,959,475	2009
+263	The Da Vinci Code	Sony	33,211,600	$217,536,138	2006
+264	Monsters University	BV	33,200,400	$268,492,764	2013
+265	All the President's Men	WB	33,145,500	$70,600,000	1976
+266	What Women Want	Par.	33,089,700	$182,811,707	2000
+267	The Bourne Ultimatum	Uni.	33,062,700	$227,471,070	2007
+268	Gravity	WB	32,937,800	$274,092,705	2013
+269	Honey, I Shrunk the Kids	BV	32,928,000	$130,724,172	1989
+270	Terms of Endearment	Par.	32,878,500	$108,423,489	1983
+271	Men in Black II	Sony	32,774,300	$190,418,803	2002
+272	Star Trek: The Motion Picture	Par.	32,772,300	$82,258,456	1979
+273	Wedding Crashers	NL	32,645,200	$209,255,921	2005
+274	Despicable Me	Uni.	32,594,500	$251,513,985	2010
+275	Pocahontas	BV	32,547,100	$141,579,773	1995
+276	Arthur	WB	32,540,900	$95,461,682	1981
+277	The Hunger Games: Mockingjay - Part 2	LGF	32,401,600	$281,723,902	2015
+278	The LEGO Movie	WB	32,315,300	$257,760,692	2014
+279	Batman Begins	WB	32,228,800	$206,852,432	2005^
+280	Apocalypse Now	MGM	32,221,100	$83,471,511	1979^
+281	Charlie and the Chocolate Factory	WB	32,208,900	$206,459,076	2005
+282	Big Daddy	Sony	32,181,100	$163,479,795	1999
+283	Ocean's Eleven	WB	32,074,700	$183,417,150	2001
+284	Jurassic Park III	Uni.	32,009,200	$181,171,875	2001
+285	Teenage Mutant Ninja Turtles	NL	31,977,800	$135,265,915	1990
+286	Planet of the Apes (2001)	Fox	31,802,600	$180,011,740	2001
+287	Alien	Fox	31,781,700	$80,931,801	1979^
+288	Hancock	Sony	31,747,400	$227,946,274	2008
+289	As Good as It Gets	Sony	31,675,000	$148,478,011	1997
+290	The Hangover Part II	WB	31,587,400	$254,464,305	2011
+291	Midnight Cowboy	UA	31,538,800	$44,785,053	1969
+292	The Hobbit: The Desolation of Smaug	WB (NL)	31,515,100	$258,366,855	2013
+293	The French Connection	Fox	31,333,300	$51,700,000	1971
+294	The Flintstones	Uni.	31,227,600	$130,531,208	1994
+295	Captain America: The Winter Soldier	BV	31,195,400	$259,766,572	2014
+296	Coming to America	Par.	31,180,600	$128,152,301	1988
+297	National Treasure: Book of Secrets	BV	31,172,500	$219,964,115	2007
+298	WALL-E	BV	31,170,900	$223,808,164	2008
+299	The Hobbit: The Battle of the Five Armies	WB (NL)	31,078,900	$255,119,788	2014
+300	The Silence of the Lambs	Orion	31,055,300	$130,742,922	1991
